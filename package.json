@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "sass": "^1.45.0"
+  },
+  "name": "speedcoding1",
+  "version": "1.0.0",
+  "description": "Speed Coding challenge from LDDD",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:public/css/style.css --style compressed",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VoidSplit",
+  "license": "ISC"
+}
